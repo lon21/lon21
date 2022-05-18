@@ -2,7 +2,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api/?username=lon21&show_icons=true&include_all_commits&theme=dark" align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lon21&theme=dark" align="center">
-<img src="https://komarev.com/ghpvc/?username=lon21&color=000000">
+<img src="https://komarev.com/ghpvc/?username=lon21&color=000000&style=for-the-badge">
 </br>
 <a href="https://lon21.pl">My site</a>
 </br>
