@@ -6,6 +6,8 @@
 </br>
 <a href="https://lon21.pl">My site</a>
 </br>
+<img src=https://lanyard-profile-readme.vercel.app/api/452581229649461258>
+</br>
 
 ### Contact
  - Discord (452581229649461258)
