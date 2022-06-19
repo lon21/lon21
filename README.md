@@ -4,10 +4,11 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lon21&theme=dark" align="center">
 <img src="https://komarev.com/ghpvc/?username=lon21&color=000000&style=for-the-badge">
 </br>
+<img href="https://discord.com/users/452581229649461258" src=https://lanyard-profile-readme.vercel.app/api/452581229649461258>
+</br>
 <a href="https://lon21.pl">My site</a>
 </br>
-<img src=https://lanyard-profile-readme.vercel.app/api/452581229649461258>
-</br>
+
 
 ### Contact
  - Discord (452581229649461258)
