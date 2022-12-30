@@ -1,11 +1,11 @@
 <h1 align="center">🙋‍♂️ Hi! I'm lon21 &#127477;&#127473;</h1>
 <h3 align="center">(Yeah another boring Polish dev)</h3>
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lon21&theme=dark" width="44%" ><img href="https://discord.com/users/452581229649461258" src=https://lanyard-profile-readme.vercel.app/api/452581229649461258 align="left" width="55%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lon21&theme=dark" width="44%" align="right"><img href="https://discord.com/users/452581229649461258" src=https://lanyard-profile-readme.vercel.app/api/452581229649461258 align="left" width="55%">
-
-<img src="https://spotify-recently-played-readme.vercel.app/api?user=lewlon" width="44%" align="right">
-<img src="https://komarev.com/ghpvc/?username=lon21&color=000000&style=for-the-badge" width="55%">
+<img src="https://spotify-recently-played-readme.vercel.app/api?user=lewlon" width="44%" >
+<img src="https://komarev.com/ghpvc/?username=lon21&color=000000&style=for-the-badge" width="25%">
+<a href="https://wakatime.com/@d8464a6a-d865-4f59-966b-e5fde1f74cea"><img width="25%" src="https://wakatime.com/badge/user/d8464a6a-d865-4f59-966b-e5fde1f74cea.svg" alt="Total time coded since Sep 29 2022" /></a>
 </br>
 
 <h2>Contact:</h2>
