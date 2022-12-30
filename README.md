@@ -2,7 +2,6 @@
 <h3 align="center">(Yeah another boring Polish dev)</h3>
 
 
-<img src="https://github-readme-stats.vercel.app/api/?username=lon21&show_icons=true&include_all_commits&theme=dark" align="left" width="55%">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lon21&theme=dark" width="44%" align="right"><img href="https://discord.com/users/452581229649461258" src=https://lanyard-profile-readme.vercel.app/api/452581229649461258 align="left" width="55%">
 
 <img src="https://spotify-recently-played-readme.vercel.app/api?user=lewlon" width="44%" align="right">
