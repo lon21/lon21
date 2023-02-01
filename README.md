@@ -9,7 +9,7 @@
 </br>
 
 <h2>Contact:</h2>
-<a href="discord.com/users/452581229649461258"><img src="https://www.freepnglogos.com/uploads/discord-logo-png/concours-discord-cartes-voeux-fortnite-france-6.png" width="60px"> (452581229649461258)</a>
+<a href="https://discord.com/users/452581229649461258"><img src="https://www.freepnglogos.com/uploads/discord-logo-png/concours-discord-cartes-voeux-fortnite-france-6.png" width="60px"> (452581229649461258)</a>
 
 <a href="mailto:lon21@lon21.pl"><img src="https://www.freepnglogos.com/uploads/email-png/email-png-high-resolution-web-icons-png-27.png" width="60px"> lon21@lon21.pl</a>
 
