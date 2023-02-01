@@ -23,5 +23,3 @@
 <a href="https://www.linux.org/"><img src="https://1000logos.net/wp-content/uploads/2017/03/LINUX-LOGO.png" height="50px"></a>
 <a href="https://www.w3schools.com/html/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" height="50px"></a>
 <a href="https://www.w3schools.com/css/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" height="50px"></a>
-<a href=""><img src="" height="50px"></a>
-<a href=""><img src="" height="50px"></a>
