@@ -1,7 +1,7 @@
 <h1 align="center">🙋‍♂️ Hi! I'm lon21 &#127477;&#127473;</h1>
 <h3 align="center">(Yeah another boring Polish dev)</h3>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lon21&theme=dark" width="50%" align="left">
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lon21&theme=dark" width="50%" align="left"> -->
 <img href="https://discord.com/users/452581229649461258" src=https://lanyard-profile-readme.vercel.app/api/452581229649461258 width="45%">
 
 <img src="https://komarev.com/ghpvc/?username=lon21&color=000000&style=for-the-badge" width="25%">
@@ -18,7 +18,7 @@
 <h2 align="left">Environments:</h2>
 <a href="https://js.org"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/800px-JavaScript-logo.png" width="50px"></a>
 <a href="https://www.typescriptlang.org/"><img src="https://www.saashub.com/images/app/service_logos/11/ad388324edad/large.png?1531424414" width="50px"></a>
-<a href="https://nodejs.org"><img src="https://static-00.iconduck.com/assets.00/node-js-icon-1817x2048-g8tzf91e.png" height="50px"></a>
+<a href="https://nodejs.org"><img src="https://img.beget.com/cp/plain/shared/xoKELFIyHKF4-V5ZaKBvDC7xhOoZJW71/logo_nodejs2x.png@.webp" height="50px"></a>
 <a href="https://www.java.com/"><img src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/1200px-Java_programming_language_logo.svg.png" height="50px"></a>
 <a href="https://www.mongodb.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/MongoDB_Logo.svg/2560px-MongoDB_Logo.svg.png" height="50px"></a>
 <a href="https://www.linux.org/"><img src="https://1000logos.net/wp-content/uploads/2017/03/LINUX-LOGO.png" height="50px"></a>
