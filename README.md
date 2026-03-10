@@ -1,5 +1,11 @@
 <h1 align="center">Hi! I'm lon21 🇵🇱</h1>
-<h3 align="center">Another boring Polish dev 💻</h3>
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=500&lines=Another+boring+Polish+dev+%F0%9F%92%BB;Backend+Developer+%F0%9F%9A%80" alt="Typing SVG" />
+  </a>
+</div>
+
+<br/>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=lon21&color=blue&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
@@ -19,25 +25,22 @@
 <br/>
 
 ## 👨‍💻 About me
-
 * 🔭 Currently working on **[dwuch.pl](https://dwuch.pl)**
 * 🌐 Check out my website: **[lon21.pl](https://lon21.pl)**
 
 ## 🗣️ Languages
-
 * 🇵🇱 **Polish:** Native
 * 🇬🇧 **English:** Fluent
 
 ## 🛠️ Technologies & Tools
-
 <div align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,ts,nodejs,bun,pnpm,java,cs,python,mongodb,docker,linux,html,css&theme=dark" alt="My Skills" />
   </a>
 </div>
 
+## 📊 Tygodniowe statystyki (WakaTime)
 ## 🐍 Activity Snake
-
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lon21/lon21/output/github-contribution-grid-snake-dark.svg">
@@ -47,7 +50,6 @@
 </div>
 
 ## 📬 Contact & Support
-
 <div align="left">
   <a href="https://lon21.pl">
     <img src="https://img.shields.io/badge/Website-lon21.pl-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" />
