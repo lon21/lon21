@@ -36,12 +36,6 @@
   </a>
 </div>
 
-## 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lon21&amp;theme=dark&amp;show_icons=true&amp;hide_border=true&amp;count_private=true" alt="lon21's GitHub stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lon21&amp;theme=dark&amp;layout=compact&amp;hide_border=true" alt="lon21's Top Languages" width="48%" />
-</div>
-
 ## 🐍 Activity Snake
 
 <div align="center">
