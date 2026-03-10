@@ -40,6 +40,10 @@
 </div>
 
 ## 📊 Weekly Stats (WakaTime)
+<!-- START_SECTION:waka -->
+
+<!-- END_SECTION:waka -->
+
 ## 🐍 Activity Snake
 <div align="center">
   <picture>
