@@ -42,6 +42,14 @@
 ## 📊 Weekly Stats (WakaTime)
 <!--START_SECTION:waka-->
 
+```txt
+TypeScript   9 hrs 33 mins         ███████████████████▓░░░░░   78.90 %
+Bash         42 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.84 %
+YAML         27 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.74 %
+Markdown     23 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.24 %
+EJS          18 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.57 %
+```
+
 <!--END_SECTION:waka-->
 
 ## 🐍 Activity Snake
