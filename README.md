@@ -19,21 +19,42 @@
 <br/>
 
 ## 👨‍💻 About me
+
 * 🔭 Currently working on **[dwuch.pl](https://dwuch.pl)**
 * 🌐 Check out my website: **[lon21.pl](https://lon21.pl)**
 
 ## 🗣️ Languages
+
 * 🇵🇱 **Polish:** Native
 * 🇬🇧 **English:** Fluent
 
 ## 🛠️ Technologies & Tools
+
 <div align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,ts,nodejs,bun,pnpm,java,cs,python,mongodb,docker,linux,html,css&theme=dark" alt="My Skills" />
   </a>
 </div>
 
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=lon21&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="lon21's GitHub stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lon21&theme=dark&layout=compact&hide_border=true" alt="lon21's Top Languages" width="48%" />
+</div>
+
+## 🐍 Activity Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lon21/lon21/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lon21/lon21/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/lon21/lon21/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
 ## 📬 Contact & Support
+
 <div align="left">
   <a href="https://lon21.pl">
     <img src="https://img.shields.io/badge/Website-lon21.pl-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" />
