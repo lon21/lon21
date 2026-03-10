@@ -1,26 +1,50 @@
-<h1 align="center">🙋‍♂️ Hi! I'm lon21 &#127477;&#127473;</h1>
-<h3 align="center">(Yeah another boring Polish dev)</h3>
+<h1 align="center">Hi! I'm lon21 🇵🇱</h1>
+<h3 align="center">Another boring Polish dev 💻</h3>
 
-<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lon21&theme=dark" width="50%" align="left"> -->
-<img href="https://discord.com/users/452581229649461258" src=https://lanyard-profile-readme.vercel.app/api/452581229649461258 width="45%">
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=lon21&color=blue&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+  <a href="https://wakatime.com/@d8464a6a-d865-4f59-966b-e5fde1f74cea">
+    <img src="https://wakatime.com/badge/user/d8464a6a-d865-4f59-966b-e5fde1f74cea.svg?style=flat-square" alt="Total time coded" />
+  </a>
+</div>
 
-<img src="https://komarev.com/ghpvc/?username=lon21&color=000000&style=for-the-badge" width="25%">
-<a href="https://wakatime.com/@d8464a6a-d865-4f59-966b-e5fde1f74cea"><img width="25%" src="https://wakatime.com/badge/user/d8464a6a-d865-4f59-966b-e5fde1f74cea.svg" alt="Total time coded since Sep 29 2022" /></a>
-<a href="https://ko-fi.com/W7W4LKBWJ"><img src="https://ko-fi.com/img/githubbutton_sm.svg">
-<br><br><br>
+<br/>
 
-<h2 align="left">Contact:</h2>
-<a href="https://discord.com/users/452581229649461258"><img src="https://www.freepnglogos.com/uploads/discord-logo-png/concours-discord-cartes-voeux-fortnite-france-6.png" width="60px"> (452581229649461258)</a>
-<a href="mailto:lon21@lon21.pl"><img src="https://www.freepnglogos.com/uploads/email-png/email-png-high-resolution-web-icons-png-27.png" width="60px"> lon21@lon21.pl</a>
- 
-<br>
-  
-<h2 align="left">Environments:</h2>
-<a href="https://js.org"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/800px-JavaScript-logo.png" width="50px"></a>
-<a href="https://www.typescriptlang.org/"><img src="https://www.saashub.com/images/app/service_logos/11/ad388324edad/large.png?1531424414" width="50px"></a>
-<a href="https://nodejs.org"><img src="https://img.beget.com/cp/plain/shared/xoKELFIyHKF4-V5ZaKBvDC7xhOoZJW71/logo_nodejs2x.png@.webp" height="50px"></a>
-<a href="https://www.java.com/"><img src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/1200px-Java_programming_language_logo.svg.png" height="50px"></a>
-<a href="https://www.mongodb.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/MongoDB_Logo.svg/2560px-MongoDB_Logo.svg.png" height="50px"></a>
-<a href="https://www.linux.org/"><img src="https://1000logos.net/wp-content/uploads/2017/03/LINUX-LOGO.png" height="50px"></a>
-<a href="https://www.w3schools.com/html/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" height="50px"></a>
-<a href="https://www.w3schools.com/css/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" height="50px"></a>
+<div align="center">
+  <a href="https://discord.com/users/452581229649461258">
+    <img src="https://lanyard-profile-readme.vercel.app/api/452581229649461258?theme=dark&bg=0d1117&hide_discrim=true" alt="Discord Status" width="350px"/>
+  </a>
+</div>
+
+<br/>
+
+## 👨‍💻 About me
+* 🔭 Currently working on **[dwuch.pl](https://dwuch.pl)**
+* 🌐 Check out my website: **[lon21.pl](https://lon21.pl)**
+
+## 🗣️ Languages
+* 🇵🇱 **Polish:** Native
+* 🇬🇧 **English:** Fluent
+
+## 🛠️ Technologies & Tools
+<div align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,nodejs,bun,pnpm,java,cs,python,mongodb,docker,linux,html,css&theme=dark" alt="My Skills" />
+  </a>
+</div>
+
+## 📬 Contact & Support
+<div align="left">
+  <a href="https://lon21.pl">
+    <img src="https://img.shields.io/badge/Website-lon21.pl-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" />
+  </a>
+  <a href="mailto:lon21@lon21.pl">
+    <img src="https://img.shields.io/badge/Email-lon21%40lon21.pl-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://discord.com/users/452581229649461258">
+    <img src="https://img.shields.io/badge/Discord-lon21-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  </a>
+  <a href="https://ko-fi.com/W7W4LKBWJ">
+    <img src="https://img.shields.io/badge/Ko--fi-Support-FF5E5B?style=for-the-badge&logo=kofi&logoColor=white" alt="Ko-fi" />
+  </a>
+</div>
