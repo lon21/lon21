@@ -39,7 +39,7 @@
   </a>
 </div>
 
-## 📊 Tygodniowe statystyki (WakaTime)
+## 📊 Weekly Stats (WakaTime)
 ## 🐍 Activity Snake
 <div align="center">
   <picture>
